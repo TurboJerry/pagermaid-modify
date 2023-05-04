@@ -11,7 +11,7 @@
 ## 一键脚本安装
 
 ```
-wget https://github.com/TurboJerry/pagermaid-modify/-/raw/master/utils/docker.sh
+wget https://raw.github.com/TurboJerry/pagermaid-modify/master/utils/docker.sh
 bash docker.sh
 ```
 
