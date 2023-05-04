@@ -1,5 +1,3 @@
-![pagermaid](https://tlgur.com/d/8nomNo9G "pagermaid")
-
 <h1 align="center"><a href="https://t.me/PagerMaid_Modify" target="_blank">PagerMaid</a></h1>
 
 <div align="center">
